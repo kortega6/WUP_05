@@ -70,8 +70,15 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-
+The p-value is 6.596e-05 which is significantly lower than 0.05 which means that we reject the null hypothesis. According to the Fisher exact test, if you are a woman and received treatment, you are 1.53 times more likely to get aids.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+In this assignment we will reject the null hypothesis. According to the barchart, among the women who have contracted aids, most received the vaccine. This chart shows the vaccune is not effective in preventing the disease.
+The numerical results show that the women who have received treatment about 58.82% of the women received the vaccine but still contracted aids. While those who received the placebo 41.18% contracted aids.
+The fisher test shows that the P-Value is 0.00006596 which is lower than the acceptable p-value of 0.05 so we will reject the null hypothesis. It also states the women who get the vaccine are 1.5 times more likely to get aids than those who did not get the vaccine. Therefore the treatment is no effective in preventing aids in women.
+
+
